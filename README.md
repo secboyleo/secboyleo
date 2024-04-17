@@ -15,4 +15,4 @@
     
 </div>
 
-## Apaixonado por tecnologia, atualmente estou em relacionamente sério com Cibersegurança🌐🔒
+## Estudante de Cibersegurança🌐🔒
