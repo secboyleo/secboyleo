@@ -3,7 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardogoessilva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/leogdasilva)
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=secboyleo&show_icons=true&theme=tokyonight)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=secboyleo&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secboyleo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso 💻:
 <div>
