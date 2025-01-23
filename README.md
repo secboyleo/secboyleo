@@ -1,8 +1,8 @@
 # Hello Word!👋
 ## Eu sou Leonardo de Goes, academico de Cibersegurança 🌐🔒
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=secboyleo&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secboyleo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=secboyleo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secboyleo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso 💻:
 <div>
